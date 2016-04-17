@@ -1,0 +1,22 @@
+Neighbourhood: 160x150 meters
+
+60% Single family homes (SFH), 25% Bungalows (BUN), 15% Villas (VIL)
+
+SFH = 8x8 meters plus 2 meters clearance on all sides
+value 285000 + 3% for every meter of extra clearance
+
+BUN = 10x7.5 meters plus 3 meters clearance
+value 399000 + 4% for every meter of extra clearance
+
+VIL = 11x10.5 meters plus 6 meters clearance
+value 610000 + 6% for every meter of extra clearance
+
+all clearance must be within 160x150 dimensions
+
+20% of the map must be bodies of water (no more than 4) with length:width ratio between 1:4
+
+ASSIGNMENT:
+
+Three versions of the neighbourhood are up for consideration: 20 houses, 40 houses or 60 houses
+
+Create two maps (2D or 3D) for all three versions of the neighbourhood, one map scored by total clearance, and one map scored by total value
